@@ -1,1 +1,1 @@
-# -cloudinary-gridsome-plugin
+# Cloudinary plugin for Gridsome
