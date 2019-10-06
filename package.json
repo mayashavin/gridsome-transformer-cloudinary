@@ -1,0 +1,26 @@
+  
+{
+    "name": "gridsome-transformer-cloudinary",
+    "version": "0.0.1",
+    "description": "Transform local files into Cloudinary-managed assets for Gridsome sites.",
+    "main": "index.js",
+    "author": "Maya Shavin <dpnminh@gmail.com>",
+    "homepage": "https://cloudinary.com",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cloudinary/gridsome-transformer-cloudinary"
+    },
+    "keywords": [
+      "gridsome",
+      "gridsome-plugin",
+      "image",
+      "cloudinary",
+      "static sites"
+    ],
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.19.0",
+      "cloudinary": "^1.15.0",
+      "fs-extra": "^8.1.0"
+    }
+  }
